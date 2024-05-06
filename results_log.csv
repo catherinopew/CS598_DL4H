@@ -1,2 +1,0 @@
-loss,bin_loss,los_loss,auc_bin,spearman_los,base_lr,lr_policy,batch_size,optim_momentum,max_seq_length,embed_size,max_epochs,exp_dir,exp_name,test_id
-0.6749000514116810,0.6749000514116810,0.0,0.6460238807912550,nan,0.00059117,1cycle,32,0.9,100,128,5,./experiments/default_addSANS/at_2024_04_14_21_18_55,default_addSANS,0
