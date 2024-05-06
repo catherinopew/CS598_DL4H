@@ -1,0 +1,11 @@
+loss,bin_loss,los_loss,auc_bin,spearman_los,base_lr,lr_policy,batch_size,optim_momentum,max_seq_length,embed_size,max_epochs,exp_dir,exp_name,test_id
+0.656711996,0.656711996,0,0.6600806871,nan,0.00059117,1cycle,32,0.9,200,256,5,./experiments/default_addSANS/at_2024_05_06_17_16_46,default_addSANS,0
+0.656711996,0.656711996,0,0.6600806871,nan,0.00059117,1cycle,32,0.9,200,256,5,./experiments/default_addSANS/at_2024_05_06_17_16_46,default_addSANS,1
+0.6652318926,0.6652318926,0,0.6664796981,nan,0.00059117,1cycle,8,0.9,200,128,5,./experiments/default_axialSANS/at_2024_05_06_17_45_26,default_axialSANS,0
+0.6652318926,0.6652318926,0,0.6664796981,nan,0.00059117,1cycle,8,0.9,200,128,5,./experiments/default_axialSANS/at_2024_05_06_17_45_26,default_axialSANS,1
+10.65566063,0.6556606255,0,0.6606542816,nan,0.00059117,1cycle,32,0.9,200,256,1,./experiments/default_addSANS/at_2024_05_06_18_16_39,default_addSANS,0
+0.6556606255,0.6556606255,0,0.6606542816,nan,0.00059117,1cycle,32,0.9,200,256,1,./experiments/default_addSANS/at_2024_05_06_18_16_39,default_addSANS,1
+10.65566063,0.6556606255,0,0.6606542816,nan,0.00059117,1cycle,32,0.9,200,256,1,./experiments/default_addSANS/at_2024_05_06_18_28_34,default_addSANS,0
+0.6556606255,0.6556606255,0,0.6606542816,nan,0.00059117,1cycle,32,0.9,200,256,1,./experiments/default_addSANS/at_2024_05_06_18_28_34,default_addSANS,1
+0.6556606255,0.6556606255,0,0.6606542816,nan,0.00059117,1cycle,32,0.9,200,256,1,./experiments/default_addSANS/at_2024_05_06_18_56_17,default_addSANS,0
+0.6556606255,0.6556606255,0,0.6606542816,nan,0.00059117,1cycle,32,0.9,200,256,1,./experiments/default_addSANS/at_2024_05_06_18_56_17,default_addSANS,1

@@ -1,0 +1,5 @@
+loss,bin_loss,los_loss,auc_bin,spearman_los,base_lr,lr_policy,batch_size,optim_momentum,max_seq_length,embed_size,max_epochs,exp_dir,exp_name,test_id
+0.6576373830554992,0.6576373830554992,0.0,0.6603598386257157,nan,0.00059117,1cycle,32,0.9,200,256,3,./experiments/default_addSANS/at_2024_05_06_20_04_46,default_addSANS,0
+0.6576373830554992,0.6576373830554992,0.0,0.6603598386257157,nan,0.00059117,1cycle,32,0.9,200,256,3,./experiments/default_addSANS/at_2024_05_06_20_04_46,default_addSANS,1
+0.6711709569758317,0.6711709569758317,0.0,0.652948984903696,nan,0.00059117,1cycle,8,0.9,200,128,3,./experiments/default_axialSANS/at_2024_05_06_20_04_46,default_axialSANS,0
+0.6711709569758317,0.6711709569758317,0.0,0.652948984903696,nan,0.00059117,1cycle,8,0.9,200,128,3,./experiments/default_axialSANS/at_2024_05_06_20_04_46,default_axialSANS,1
